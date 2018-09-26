@@ -9,7 +9,7 @@
             "value": "mysqldbuser"
         },
         "administratorLoginPassword": {
-            "value": "GEN-UNIQUE"
+            "value": "GEN-PASSWORD"
         },
         "mysqLocation": {
             "value": "East US 2"
