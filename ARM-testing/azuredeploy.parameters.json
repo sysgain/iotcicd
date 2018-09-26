@@ -9,7 +9,7 @@
             "value": "mysqldbuser"
         },
         "administratorLoginPassword": {
-            "value": "moolamreddy123@"
+            "value": "GEN-PASSWORD"
         },
         "mysqLocation": {
             "value": "East US 2"
