@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "name": {
-            "value": "simpleap"
+            "value": "testaopp"
         },
         "hostingPlanName": {
-            "value": "sidda"
+            "value": "sidda123"
         },
         "hostingEnvironment": {
             "value": ""
@@ -14,8 +14,17 @@
         "location": {
             "value": "Central US"
         },
+        "sku": {
+            "value": "Free"
+        },
+        "workerSize": {
+            "value": "0"
+        },
         "serverFarmResourceGroup": {
-            "value": "Armtesting"
+            "value": "testaopp"
+        },
+        "skuCode": {
+            "value": "F1"
         },
         "subscriptionId": {
             "value": "a47640bf-8646-423e-8fbf-ec58566dd111"
