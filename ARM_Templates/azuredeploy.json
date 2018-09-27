@@ -23,9 +23,6 @@
         "workerSize": {
             "type": "string"
         },
-        "serverFarmResourceGroup": {
-            "type": "string"
-        },
         "subscriptionId": {
             "type": "string"
         }
