@@ -5,7 +5,7 @@ var fs = require('fs');
 const appInsights = require('applicationinsights');
 appInsights.setup();
 appInsights.start();
-
+console.log('Test1');
 http.createServer(function (req, res) {
     fs.readFile('index.html', function (err, data) {
         res.writeHead(200, { 'Content-Type': 'text/html', 'Content-Length': data.length });
